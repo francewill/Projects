@@ -1,0 +1,13 @@
+[
+    {
+        "firstName" : "Prince Czedrick",
+        "middleName" : "Monreal",
+        "lastName" : "Nepomuceno",
+        "studentNo" : "202010953",
+        "userType" : "student",
+        "email" : "pmnepomuceno1@up.edu.ph",
+        "password" : "rainbowunicorn100",
+        "applications" : [],
+        "adviser" : ""
+    }
+]

@@ -1,0 +1,27 @@
+.clearance_card{
+    margin: 10px 0;
+    width: 500px;
+    font-size: small;
+
+ 
+
+}
+
+#topCard{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#close{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+
+
+    
+}
+ 
+#printText{
+    margin-left: 10px;
+}

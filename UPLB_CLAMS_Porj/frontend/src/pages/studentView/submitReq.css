@@ -1,0 +1,31 @@
+
+#submitReqHolder{
+    display: flex;
+    height: 100vh;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+#holderOngoing{
+    width: 600px;
+
+}
+
+#ongoingAppscreen{
+    display: flex;
+    height: 100vh;
+    flex-direction: row;
+    justify-content: center;
+}
+#openApplication{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    align-items: center;
+    justify-content: center;
+}
+
+#link {
+    text-align: center;
+  }

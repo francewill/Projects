@@ -1,0 +1,20 @@
+.table th {
+    background: #fff;
+    padding: 8px 10px;
+    border-bottom: 1px solid #1a1a1a;
+    font-weight: bold;
+    text-align: left;
+  }
+  th.up,
+  th.default,
+  th.down {
+    cursor: pointer;
+    background-repeat: no-repeat;
+    background-position: center right;
+  }
+
+  .search-container{
+    margin-bottom: 10px;
+  }
+  
+ 

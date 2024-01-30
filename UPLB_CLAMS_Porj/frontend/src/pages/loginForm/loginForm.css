@@ -1,0 +1,27 @@
+
+#loginscreen{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+#cardSection{
+    width: 80%;
+}
+#form{
+    width:40%
+}
+
+#imgHolder{
+    width: 50%;
+    height: 50%;
+ 
+ 
+    border-color: rgba(168, 167, 167, 0.5);
+    box-shadow: 0 10px 15px rgba(168, 167, 167, 0.5)
+}
+#loginpic{
+    border-radius: 3%;
+}
+

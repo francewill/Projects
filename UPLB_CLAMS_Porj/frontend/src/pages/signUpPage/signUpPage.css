@@ -1,0 +1,11 @@
+#ourCard{
+    height: 50%;
+    width: 1000px;
+}
+
+#pic{
+    box-shadow: 10px 10px 5px #d3d3d3;
+    width: 500px;
+    border-radius: 3%;
+}
+
